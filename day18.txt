@@ -1,0 +1,13 @@
+git status
+git add .
+git commit -m
+git remote -v
+git config --global user.email "abhishekyagadihal@gmail.com"
+git config --global user.name "abhishekyagadihal"
+git branch
+git checkout main
+git push -u origin main
+git branch main
+git push -f origin main
+git commit -m "modify"
+

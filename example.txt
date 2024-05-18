@@ -1,0 +1,7 @@
+git init 
+git status 
+git add . 
+git add -a
+git remote -v
+git config
+
